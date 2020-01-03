@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 test git merge --no-ff.
 
 branch dev
-I have a dream.
+my name is dd.I have a dream.
